@@ -1,0 +1,25 @@
+{
+  "name": "richup-tactical-hud",
+  "version": "1.0.0",
+  "description": "> **Userscript (Tampermonkey)** trợ lý chiến thuật đỉnh cao và Menu Mod cho game cờ tỷ phú trực tuyến **[Richup.io](https://richup.io)**.   > Cung cấp Radar xác suất 11 bước xúc xắc, Bảng soi tài sản ròng thời gian thực, Phân tích độc quyền & ROI xây nhà, cùng hệ thống Tự động hóa thông minh (Auto Roll, Auto Buy, Auto End Turn, Sniper đấu giá).",
+  "main": "richup-tactical-hud.user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhoxboo/richup-tactical-hud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nhoxboo/richup-tactical-hud/issues"
+  },
+  "homepage": "https://github.com/nhoxboo/richup-tactical-hud#readme",
+  "dependencies": {
+    "jsdom": "^29.1.1",
+    "playwright-core": "^1.64.1"
+  }
+}

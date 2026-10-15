@@ -9,9 +9,11 @@
 
 1. Cài đặt tiện ích mở rộng [Tampermonkey](https://www.tampermonkey.net/) trên trình duyệt của bạn (Chrome, Edge, Brave, Cốc Cốc, Firefox).
 2. Nhấp trực tiếp vào link cài đặt bên dưới:
-   👉 **[Cài đặt Richup Tactical HUD VIP (raw link)](https://raw.githubusercontent.com/nhoxboo/richup-tactical-hud/main/richup-tactical-hud.user.js)**
-3. Tampermonkey sẽ mở giao diện xác nhận -> Bấm **"Install" (Cài đặt)**.
+   👉 **[Cài đặt Richup Tactical HUD VIP v1.2.0 (raw link)](https://raw.githubusercontent.com/nhoxboo/richup-tactical-hud/main/richup-tactical-hud.user.js)**
+3. Tampermonkey sẽ mở giao diện xác nhận -> Bấm **"Install" (Cài đặt)** hoặc **"Update"**.
 4. Mở game **[https://richup.io](https://richup.io)** và vào bất kỳ phòng chơi nào để tận hưởng!
+
+> 💡 **Auto-Update**: Script đã tích hợp `@updateURL` và `@downloadURL` trỏ về GitHub raw. Khi có bản vá mới, Tampermonkey sẽ tự động cập nhật mà không cần cài lại.
 
 ---
 
